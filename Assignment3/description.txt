@@ -1,0 +1,3 @@
+In this assignment we were to read, store, and organize a directory for an university. About this time I felt that I really
+was beginning to hit my stride of understanding basic coding practices with the knowledge that I had. Once again, documentation
+lacked and I would like to change that in the future.
