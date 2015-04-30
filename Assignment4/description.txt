@@ -1,0 +1,5 @@
+This was the first implementation and exposure to a linked list in C++ that I received. We were to design a system that
+kept track of family members with the functionality to add and remove members. This served as the final project for the 
+semester.
+
+In the future I would like to review the code and add further documentation. I would also like to clean and optimize the code.
